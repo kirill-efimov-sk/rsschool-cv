@@ -4,14 +4,13 @@
 4. I'm using IDEs - VS Code, browsers (console), bootstrap and JQuery. 
 I am learning css, html, js
 5. Code examples:
-    function appendElem (param=true) {
-        if (br == 3) {
-            br = document.createElement('br');
-            
-            message.append(div);
-            message.append(br);
-        }
-    }
+function appendElem (param=true) {
+  if (br == 3) {
+  br = document.createElement('br');         
+  message.append(div);
+  message.append(br);
+  }
+}
 6. Experience: none;
 7. Education: online learning;
 8. English: pre-intermediate;
