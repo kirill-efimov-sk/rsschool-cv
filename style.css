@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+body {
+  position: relative;
+  background: #111111;
+}
+.container,
+footer,
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em;
+  color: aliceblue;
+  font-family: 'Catamaran', 'Arial', serif;
+}
+.cminmax {
+  min-width: 1024px;
+  min-height: 1024px;
+}
+img {
+  width: 900px;
+  height: 600px;
+  margin: 1% 5% 1% 5%;
+  border: 2px solid white;
+  border-radius: 15px;
+}
